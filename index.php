@@ -31,6 +31,8 @@
                 <h2 class="masthead-subheading mb-0">I am Manish Sau</h2>
                 <a href="https://github.com/manishlok" class="btn btn-primary btn-xl rounded-pill mt-5">My GitHub
                     Profile</a>
+                    <img src="..." class="rounded float-start" alt="...">
+<img src="..." class="rounded float-end" alt="...">
             </div>
         </div>
 
